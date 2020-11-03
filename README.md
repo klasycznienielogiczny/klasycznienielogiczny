@@ -1,12 +1,15 @@
 ### Hi there 👋
-
+🌱 I’m currently learning how to use github in the right way
+🔭 I’m currently working on Kebattle project with my team :muscle:
+:open_file_folder: Repos in this account will be used for Podstawy Programowania and Narzędzia informatyczne classes
+:rainbow_flag::zap:
 <!--
 **klasycznienielogiczny/klasycznienielogiczny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
