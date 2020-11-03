@@ -1,8 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning how to use github in the right way
-🔭 I’m currently working on Kebattle project with my team :muscle:
-:open_file_folder: Repos in this account will be used for Podstawy Programowania and Narzędzia informatyczne classes
-:rainbow_flag::zap:
+- 🌱 I’m currently learning how to use github in the right way
+- 🔭 I’m currently working on Kebattle project with my team :muscle:
+- :open_file_folder: Repos in this account will be used for Podstawy Programowania and Narzędzia informatyczne classes
+- :rainbow_flag::zap:
 <!--
 **klasycznienielogiczny/klasycznienielogiczny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
