@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Kebattle project with my team :muscle:
 - :open_file_folder: Repos in this account will be used for Podstawy Programowania and Narzędzia informatyczne classes
 - [:globe_with_meridians:](https://klasycznienielogiczny.github.io/) :point_left: Here's my website :flushed:
+- [<img src="https://github.com/klasycznienielogiczny/NarzedziaInformatyczne/blob/master/Daco_2566021.png" alt="Girl in a jacket" width="24" height="20">](https://github.com/klasycznienielogiczny/hdr-expandnet) :point_left: It's my forked repository
 - :rainbow_flag::zap:
 <!--
 **klasycznienielogiczny/klasycznienielogiczny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
